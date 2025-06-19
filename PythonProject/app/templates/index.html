@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>图片描述生成器</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>图片描述生成器</h1>
+        <p>上传一张图片，我们将使用AI为您生成图片描述</p>
+
+        <div class="upload-form">
+            <!-- 注意这里的action使用main.index -->
+            <form action="{{ url_for('main.index') }}" method="POST" enctype="multipart/form-data">
+                <div class="file-input">
+                    <input type="file" id="image" name="image" accept="image/*">
+                    <label for="image">选择图片</label>
+                </div>
+
+                <div class="preview-container">
+                    <h3>图片预览</h3>
+                    <div id="preview" class="preview">
+                        <img id="preview-image" src="" alt="预览图">
+                    </div>
+                </div>
+
+                <button type="submit" class="btn">生成描述</button>
+            </form>
+        </div>
+
+        {% with messages = get_flashed_messages() %}
+            {% if messages %}
+                <div class="flash-messages">
+                    {% for message in messages %}
+                        <div class="flash">{{ message }}</div>
+                    {% endfor %}
+                </div>
+            {% endif %}
+        {% endwith %}
+    </div>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>

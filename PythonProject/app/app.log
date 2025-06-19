@@ -1,0 +1,171 @@
+2025-06-19 09:49:50,146 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-19 09:49:50,146 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-19 09:49:50,150 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-19 09:49:50,572 - werkzeug - WARNING -  * Debugger is active!
+2025-06-19 09:49:50,575 - werkzeug - INFO -  * Debugger PIN: 104-394-847
+2025-06-19 09:49:53,199 - werkzeug - INFO - 127.0.0.1 - - [19/Jun/2025 09:49:53] "GET / HTTP/1.1" 200 -
+2025-06-19 09:49:53,237 - werkzeug - INFO - 127.0.0.1 - - [19/Jun/2025 09:49:53] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-19 09:49:53,237 - werkzeug - INFO - 127.0.0.1 - - [19/Jun/2025 09:49:53] "GET /static/js/script.js HTTP/1.1" 200 -
+2025-06-19 09:49:58,010 - werkzeug - INFO - 127.0.0.1 - - [19/Jun/2025 09:49:58] "POST / HTTP/1.1" 200 -
+2025-06-19 09:49:58,015 - werkzeug - INFO - 127.0.0.1 - - [19/Jun/2025 09:49:58] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-19 09:49:58,016 - werkzeug - INFO - 127.0.0.1 - - [19/Jun/2025 09:49:58] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-06-19 10:07:18,861 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\PycharmProjects\\PythonProject\\app\\llm_service.py', reloading
+2025-06-19 10:07:18,913 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-19 10:07:19,368 - werkzeug - WARNING -  * Debugger is active!
+2025-06-19 10:07:19,371 - werkzeug - INFO -  * Debugger PIN: 104-394-847
+2025-06-19 10:07:22,437 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\PycharmProjects\\PythonProject\\app\\llm_service.py', reloading
+2025-06-19 10:07:22,438 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\PycharmProjects\\PythonProject\\app\\llm_service.py', reloading
+2025-06-19 10:07:23,464 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-19 10:07:23,900 - werkzeug - WARNING -  * Debugger is active!
+2025-06-19 10:07:23,904 - werkzeug - INFO -  * Debugger PIN: 104-394-847
+2025-06-19 10:07:31,868 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\anaconda3\\Lib\\unittest\\__init__.py', reloading
+2025-06-19 10:07:31,995 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-19 10:07:32,420 - werkzeug - WARNING -  * Debugger is active!
+2025-06-19 10:07:32,424 - werkzeug - INFO -  * Debugger PIN: 104-394-847
+2025-06-19 10:07:32,479 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\PycharmProjects\\PythonProject\\app\\routes.py', reloading
+2025-06-19 10:07:32,479 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\PycharmProjects\\PythonProject\\app\\routes.py', reloading
+2025-06-19 10:07:32,479 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\PycharmProjects\\PythonProject\\app\\routes.py', reloading
+2025-06-19 10:07:32,480 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\PycharmProjects\\PythonProject\\app\\routes.py', reloading
+2025-06-19 10:07:33,518 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-19 10:07:52,689 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-19 10:07:52,689 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-19 10:07:52,694 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-19 10:07:53,112 - werkzeug - WARNING -  * Debugger is active!
+2025-06-19 10:07:53,115 - werkzeug - INFO -  * Debugger PIN: 104-394-847
+2025-06-19 10:07:53,845 - werkzeug - INFO - 127.0.0.1 - - [19/Jun/2025 10:07:53] "GET / HTTP/1.1" 200 -
+2025-06-19 10:07:53,882 - werkzeug - INFO - 127.0.0.1 - - [19/Jun/2025 10:07:53] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-19 10:07:53,883 - werkzeug - INFO - 127.0.0.1 - - [19/Jun/2025 10:07:53] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-06-19 10:07:57,058 - werkzeug - INFO - 127.0.0.1 - - [19/Jun/2025 10:07:57] "POST / HTTP/1.1" 200 -
+2025-06-19 10:07:57,062 - werkzeug - INFO - 127.0.0.1 - - [19/Jun/2025 10:07:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-19 10:07:57,063 - werkzeug - INFO - 127.0.0.1 - - [19/Jun/2025 10:07:57] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-06-19 10:18:08,455 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\PycharmProjects\\PythonProject\\app\\image_service.py', reloading
+2025-06-19 10:18:08,832 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-19 10:18:09,273 - werkzeug - WARNING -  * Debugger is active!
+2025-06-19 10:18:09,277 - werkzeug - INFO -  * Debugger PIN: 104-394-847
+2025-06-19 10:18:13,497 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\PycharmProjects\\PythonProject\\app\\image_service.py', reloading
+2025-06-19 10:18:13,497 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\PycharmProjects\\PythonProject\\app\\image_service.py', reloading
+2025-06-19 10:18:13,498 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\PycharmProjects\\PythonProject\\app\\image_service.py', reloading
+2025-06-19 10:18:14,359 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-19 10:18:14,800 - werkzeug - WARNING -  * Debugger is active!
+2025-06-19 10:18:14,804 - werkzeug - INFO -  * Debugger PIN: 104-394-847
+2025-06-19 10:18:33,801 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\anaconda3\\Lib\\tkinter\\__init__.py', reloading
+2025-06-19 10:18:33,815 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\anaconda3\\Lib\\site-packages\\bokeh\\models\\widgets\\__init__.py', reloading
+2025-06-19 10:18:33,817 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\anaconda3\\Lib\\site-packages\\bokeh\\models\\ui\\__init__.py', reloading
+2025-06-19 10:18:33,820 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\anaconda3\\Lib\\site-packages\\bokeh\\models\\renderers\\__init__.py', reloading
+2025-06-19 10:18:33,822 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\anaconda3\\Lib\\site-packages\\bokeh\\models\\misc\\__init__.py', reloading
+2025-06-19 10:18:33,825 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\anaconda3\\Lib\\site-packages\\bokeh\\models\\annotations\\__init__.py', reloading
+2025-06-19 10:18:33,826 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\anaconda3\\Lib\\site-packages\\bokeh\\models\\annotations\\html\\__init__.py', reloading
+2025-06-19 10:18:33,841 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\anaconda3\\Lib\\site-packages\\holoviews\\element\\__init__.py', reloading
+2025-06-19 10:18:33,851 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\anaconda3\\Lib\\site-packages\\ipywidgets\\widgets\\__init__.py', reloading
+2025-06-19 10:18:33,855 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\__init__.py', reloading
+2025-06-19 10:18:33,856 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\__init__.py', reloading
+2025-06-19 10:18:33,959 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-19 10:18:34,398 - werkzeug - WARNING -  * Debugger is active!
+2025-06-19 10:18:34,402 - werkzeug - INFO -  * Debugger PIN: 104-394-847
+2025-06-19 10:18:35,965 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\PycharmProjects\\PythonProject\\app\\image_service.py', reloading
+2025-06-19 10:18:35,966 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\PycharmProjects\\PythonProject\\app\\image_service.py', reloading
+2025-06-19 10:18:35,966 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\PycharmProjects\\PythonProject\\app\\image_service.py', reloading
+2025-06-19 10:18:36,450 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-19 10:18:36,911 - werkzeug - WARNING -  * Debugger is active!
+2025-06-19 10:18:36,915 - werkzeug - INFO -  * Debugger PIN: 104-394-847
+2025-06-19 10:19:43,797 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-19 10:19:43,797 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-19 10:19:43,802 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-19 10:19:44,222 - werkzeug - WARNING -  * Debugger is active!
+2025-06-19 10:19:44,225 - werkzeug - INFO -  * Debugger PIN: 104-394-847
+2025-06-19 10:19:55,074 - werkzeug - INFO - 127.0.0.1 - - [19/Jun/2025 10:19:55] "GET / HTTP/1.1" 200 -
+2025-06-19 10:19:55,111 - werkzeug - INFO - 127.0.0.1 - - [19/Jun/2025 10:19:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-19 10:19:55,111 - werkzeug - INFO - 127.0.0.1 - - [19/Jun/2025 10:19:55] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-06-19 10:20:01,187 - werkzeug - INFO - 127.0.0.1 - - [19/Jun/2025 10:20:01] "POST / HTTP/1.1" 200 -
+2025-06-19 10:20:01,191 - werkzeug - INFO - 127.0.0.1 - - [19/Jun/2025 10:20:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-19 10:20:01,192 - werkzeug - INFO - 127.0.0.1 - - [19/Jun/2025 10:20:01] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-06-19 10:23:51,805 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\PycharmProjects\\PythonProject\\app\\__init__.py', reloading
+2025-06-19 10:23:51,805 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\PycharmProjects\\PythonProject\\app\\__init__.py', reloading
+2025-06-19 10:23:51,806 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\PycharmProjects\\PythonProject\\app\\__init__.py', reloading
+2025-06-19 10:23:52,235 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-19 10:23:52,705 - werkzeug - WARNING -  * Debugger is active!
+2025-06-19 10:23:52,709 - werkzeug - INFO -  * Debugger PIN: 104-394-847
+2025-06-19 10:24:04,998 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\PycharmProjects\\PythonProject\\app\\utils.py', reloading
+2025-06-19 10:24:04,998 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\PycharmProjects\\PythonProject\\app\\utils.py', reloading
+2025-06-19 10:24:04,999 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\PycharmProjects\\PythonProject\\app\\utils.py', reloading
+2025-06-19 10:24:04,999 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\PycharmProjects\\PythonProject\\app\\utils.py', reloading
+2025-06-19 10:24:05,812 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-19 10:24:06,258 - werkzeug - WARNING -  * Debugger is active!
+2025-06-19 10:24:06,261 - werkzeug - INFO -  * Debugger PIN: 104-394-847
+2025-06-19 10:24:14,721 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\PycharmProjects\\PythonProject\\app\\llm_service.py', reloading
+2025-06-19 10:24:14,722 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\PycharmProjects\\PythonProject\\app\\llm_service.py', reloading
+2025-06-19 10:24:14,722 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\PycharmProjects\\PythonProject\\app\\llm_service.py', reloading
+2025-06-19 10:24:14,722 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\PycharmProjects\\PythonProject\\app\\llm_service.py', reloading
+2025-06-19 10:24:15,345 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-19 10:24:15,790 - werkzeug - WARNING -  * Debugger is active!
+2025-06-19 10:24:15,794 - werkzeug - INFO -  * Debugger PIN: 104-394-847
+2025-06-19 10:24:49,861 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-19 10:24:49,861 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-19 10:24:49,866 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-19 10:24:50,289 - werkzeug - WARNING -  * Debugger is active!
+2025-06-19 10:24:50,293 - werkzeug - INFO -  * Debugger PIN: 104-394-847
+2025-06-19 10:24:51,443 - werkzeug - INFO - 127.0.0.1 - - [19/Jun/2025 10:24:51] "GET / HTTP/1.1" 200 -
+2025-06-19 10:24:51,479 - werkzeug - INFO - 127.0.0.1 - - [19/Jun/2025 10:24:51] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-06-19 10:24:51,480 - werkzeug - INFO - 127.0.0.1 - - [19/Jun/2025 10:24:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-19 10:24:56,258 - werkzeug - INFO - 127.0.0.1 - - [19/Jun/2025 10:24:56] "POST / HTTP/1.1" 200 -
+2025-06-19 10:24:56,263 - werkzeug - INFO - 127.0.0.1 - - [19/Jun/2025 10:24:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-19 10:24:56,263 - werkzeug - INFO - 127.0.0.1 - - [19/Jun/2025 10:24:56] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-06-19 10:26:08,157 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\PycharmProjects\\PythonProject\\app\\utils.py', reloading
+2025-06-19 10:26:08,158 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\PycharmProjects\\PythonProject\\app\\utils.py', reloading
+2025-06-19 10:26:08,158 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\PycharmProjects\\PythonProject\\app\\utils.py', reloading
+2025-06-19 10:26:08,159 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\PycharmProjects\\PythonProject\\app\\utils.py', reloading
+2025-06-19 10:26:08,635 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-19 10:29:44,441 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-19 10:29:44,441 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-19 10:29:44,446 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-19 10:29:44,868 - werkzeug - WARNING -  * Debugger is active!
+2025-06-19 10:29:44,872 - werkzeug - INFO -  * Debugger PIN: 104-394-847
+2025-06-19 10:29:45,795 - werkzeug - INFO - 127.0.0.1 - - [19/Jun/2025 10:29:45] "GET / HTTP/1.1" 200 -
+2025-06-19 10:29:45,831 - werkzeug - INFO - 127.0.0.1 - - [19/Jun/2025 10:29:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-19 10:29:45,832 - werkzeug - INFO - 127.0.0.1 - - [19/Jun/2025 10:29:45] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-06-19 10:29:48,547 - werkzeug - INFO - 127.0.0.1 - - [19/Jun/2025 10:29:48] "POST / HTTP/1.1" 200 -
+2025-06-19 10:29:48,553 - werkzeug - INFO - 127.0.0.1 - - [19/Jun/2025 10:29:48] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-19 10:29:48,554 - werkzeug - INFO - 127.0.0.1 - - [19/Jun/2025 10:29:48] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-06-19 10:30:43,053 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\PycharmProjects\\PythonProject\\app\\utils.py', reloading
+2025-06-19 10:30:43,053 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\PycharmProjects\\PythonProject\\app\\utils.py', reloading
+2025-06-19 10:30:43,054 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\PycharmProjects\\PythonProject\\app\\utils.py', reloading
+2025-06-19 10:30:43,157 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-19 10:30:43,634 - werkzeug - WARNING -  * Debugger is active!
+2025-06-19 10:30:43,638 - werkzeug - INFO -  * Debugger PIN: 104-394-847
+2025-06-19 10:30:52,383 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\PycharmProjects\\PythonProject\\app\\llm_service.py', reloading
+2025-06-19 10:30:52,384 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\PycharmProjects\\PythonProject\\app\\llm_service.py', reloading
+2025-06-19 10:30:52,384 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\PycharmProjects\\PythonProject\\app\\llm_service.py', reloading
+2025-06-19 10:30:52,385 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\PycharmProjects\\PythonProject\\app\\llm_service.py', reloading
+2025-06-19 10:30:52,750 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-19 10:30:53,243 - werkzeug - WARNING -  * Debugger is active!
+2025-06-19 10:30:53,247 - werkzeug - INFO -  * Debugger PIN: 104-394-847
+2025-06-19 10:31:59,947 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\PycharmProjects\\PythonProject\\app\\utils.py', reloading
+2025-06-19 10:31:59,948 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\PycharmProjects\\PythonProject\\app\\utils.py', reloading
+2025-06-19 10:31:59,948 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\PycharmProjects\\PythonProject\\app\\utils.py', reloading
+2025-06-19 10:32:00,527 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-19 10:32:00,976 - werkzeug - WARNING -  * Debugger is active!
+2025-06-19 10:32:00,981 - werkzeug - INFO -  * Debugger PIN: 104-394-847
+2025-06-19 10:32:08,433 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\PycharmProjects\\PythonProject\\app\\llm_service.py', reloading
+2025-06-19 10:32:08,433 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\PycharmProjects\\PythonProject\\app\\llm_service.py', reloading
+2025-06-19 10:32:08,434 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\PycharmProjects\\PythonProject\\app\\llm_service.py', reloading
+2025-06-19 10:32:08,434 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Administrator\\PycharmProjects\\PythonProject\\app\\llm_service.py', reloading
+2025-06-19 10:32:09,081 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-19 10:32:09,523 - werkzeug - WARNING -  * Debugger is active!
+2025-06-19 10:32:09,526 - werkzeug - INFO -  * Debugger PIN: 104-394-847
+2025-06-19 10:32:35,688 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-19 10:32:35,688 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-19 10:32:35,692 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-19 10:32:36,116 - werkzeug - WARNING -  * Debugger is active!
+2025-06-19 10:32:36,119 - werkzeug - INFO -  * Debugger PIN: 104-394-847
+2025-06-19 10:32:37,432 - werkzeug - INFO - 127.0.0.1 - - [19/Jun/2025 10:32:37] "GET / HTTP/1.1" 200 -
+2025-06-19 10:32:37,472 - werkzeug - INFO - 127.0.0.1 - - [19/Jun/2025 10:32:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-19 10:32:37,472 - werkzeug - INFO - 127.0.0.1 - - [19/Jun/2025 10:32:37] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -
+2025-06-19 10:32:41,347 - werkzeug - INFO - 127.0.0.1 - - [19/Jun/2025 10:32:41] "POST / HTTP/1.1" 200 -
+2025-06-19 10:32:41,353 - werkzeug - INFO - 127.0.0.1 - - [19/Jun/2025 10:32:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-06-19 10:32:41,353 - werkzeug - INFO - 127.0.0.1 - - [19/Jun/2025 10:32:41] "[36mGET /static/js/script.js HTTP/1.1[0m" 304 -

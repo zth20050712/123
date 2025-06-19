@@ -1,0 +1,28 @@
+<!-- app/templates/result.html -->
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>图片描述结果</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>图片描述结果</h1>
+
+        <div class="result-container">
+            <img src="{{ image_path }}" alt="上传的图片" class="result-image">
+
+            <div class="result-caption">
+                <h3>AI生成的图片描述：</h3>
+                <p>{{ caption }}</p>
+            </div>
+        </div>
+
+        <div class="back-btn-container">
+            <a href="{{ url_for('main.index') }}" class="back-btn">返回首页</a>
+        </div>
+    </div>
+</body>
+</html>

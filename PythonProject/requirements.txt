@@ -1,0 +1,4 @@
+flask==2.3.3
+Pillow==11.0.0
+numpy
+requests==2.31.0
